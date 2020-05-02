@@ -1,0 +1,5 @@
+customer = {
+"Name": "Nitesh Kumar"
+"Email": "jone@gmail.com"
+"Phone": "9878987652"
+}
